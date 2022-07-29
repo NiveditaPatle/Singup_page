@@ -1,0 +1,123 @@
+/* .BG {
+    width: 100rem;
+    height: 64.438rem;
+    padding: 1.438rem 33.5rem 11.125rem 33.563rem;
+    background-color: #f7f8fa;
+  } */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Rectangle {
+    width: 27rem;
+    height: 600px;
+    /* margin: 8.125rem 0 0; */
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+    background-color: #fff;
+  }
+
+  h1 {
+    width: 13.125rem;
+    height: 3.5rem;
+    margin-top: 25px;
+    margin-left: 100px;
+    /* font-family: CircularStd; */
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 0.93; */
+    letter-spacing: -1.03px;
+    text-align: center;
+    color: #1d293f;
+  }
+
+  p {
+    width: 12.875rem;
+    height: 2.438rem;
+    /* margin: 1rem 6.438rem 2.188rem 6.625rem; */
+    margin-top: 3px;
+    margin-bottom: 18px;
+    margin-left: 100px;
+    /* font-family: CircularStd; */
+    /* font-size: 1.313rem; */
+    /* font-weight: normal; */
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.66px;
+    text-align: center;
+    color: #696871;
+  }
+
+  .text {
+    width: 100px;
+    /* height: 4.563rem; */
+    /* margin: 2.188rem 0.063rem 1.063rem; */
+    margin-bottom: 10px;
+    padding: 1.563rem 17.563rem 1.563rem 1.688rem;
+    border-radius: 10px;
+    border: solid 1px #eae9f2;
+    background-color: #fff;
+  }
+
+  .btn {
+    width: 25.875rem;
+  height: 3.75rem;
+  padding: 1.063rem 6.688rem 1rem 6.625rem;
+  border-radius: 10px;
+  border: solid 1px #c31a12;
+  background-color: #f04037;
+  }
+
+  .I-agree-to-the-Terms {
+    width: 15rem;
+    height: 1.75rem;
+    margin: 0 0 0 0.75rem;
+    font-family: CircularStd;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: #5454d4;
+  }
+  
+  .I-agree-to-the-Terms .text-style-1 {
+    color: #696871;
+  }
+  .Already-have-an-acco {
+    width: 14.875rem;
+    height: 1.75rem;
+    margin: 1.125rem 5.5rem 0 5.563rem;
+    font-family: CircularStd;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: #696871;
+  }
+  
+  .Already-have-an-acco .text-style-1 {
+    color: #5454d4;
+  }
+
+  .c_div{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .s_div{
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
