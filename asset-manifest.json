@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Singup_page/static/css/main.a375e9bf.css",
+    "main.js": "/Singup_page/static/js/main.0282572c.js",
+    "static/js/787.29bec13b.chunk.js": "/Singup_page/static/js/787.29bec13b.chunk.js",
+    "index.html": "/Singup_page/index.html",
+    "main.a375e9bf.css.map": "/Singup_page/static/css/main.a375e9bf.css.map",
+    "main.0282572c.js.map": "/Singup_page/static/js/main.0282572c.js.map",
+    "787.29bec13b.chunk.js.map": "/Singup_page/static/js/787.29bec13b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a375e9bf.css",
+    "static/js/main.0282572c.js"
+  ]
+}
