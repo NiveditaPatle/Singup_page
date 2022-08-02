@@ -1,5 +1,7 @@
 .BG {
     background-color: #f7f8fa;
+    padding-top: 70px;
+    padding-bottom: 30px;
   }
 *{
     margin: 0px;
@@ -11,8 +13,9 @@
     height: 600px;
     /* margin: 8.125rem 0 0; */
     margin-left: 400px;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    /* margin-top: 70px; */
+    /* margin-bottom: 70px; */
+    /* padding-top: 70px; */
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
